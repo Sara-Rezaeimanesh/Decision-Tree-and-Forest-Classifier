@@ -7,6 +7,7 @@ title,	cast,	country,	release_year,	genre,	description
 
 At the end, the two models are compared in terms of bias and variance.
 
-Notes:
+
+**Notes:**
 
 Used TfidVectorizer from sklearn library for feature extraction from title and description. 
